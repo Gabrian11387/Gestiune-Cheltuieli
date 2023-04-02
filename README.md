@@ -22,4 +22,4 @@ Aplicația gestionează cheltuielile de familie efectuate într-o lună. Ca și 
 
 ## Informații generale
 
-Ca și paradigmă de programare este folosită programarea procedurală. Aplicația este împărțită în 3 nivele/straturi: ui(consola) -> service(business) -> repo(storage). Aplicația lucrează cu date primite de la utilizator și afișează rezultatele operațiilor efectuate în consolă. 
+Ca și paradigmă de programare este folosită programarea procedurală. Aplicația este împărțită în 3 nivele/straturi: ui(console) -> service(business) -> repo(storage). Aplicația lucrează cu date primite de la utilizator și afișează rezultatele operațiilor efectuate în consolă. 
